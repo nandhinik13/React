@@ -1,0 +1,42 @@
+body {
+  background: #ffffff;
+  margin-left: 50px;
+}
+
+button {
+  background: #0563b4 ;
+}
+p {
+  color: red;
+}
+header{
+  background-color: #0563b4;
+}
+
+.App {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+} 
+/* .App > form {
+  width: 70%;
+  border: 1px solid #dfdfdf;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+} */
+/* pre {
+  width: 70%;
+  color: #fff;
+  font-size: larger;
+} */
+
+
+
+
+
